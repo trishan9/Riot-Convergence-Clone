@@ -1,9 +1,12 @@
+import Hero from "./components/Hero";
+import NavBar from "./components/NavBar";
 import "./index.css";
 
 const App = () => {
   return (
-    <div>
-      <h1>Riot Games!!!</h1>
+    <div className="font-primary">
+      <NavBar />
+      <Hero />
     </div>
   );
 };
