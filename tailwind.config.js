@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        primary: ['Montserrat']
+        primary: ['Mark']
       }
     },
   },

@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div className="font-primary">
       <NavBar />
+
       <Hero />
     </div>
   );
